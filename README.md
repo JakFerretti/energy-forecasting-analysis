@@ -6,22 +6,48 @@ This repository contains a comprehensive analysis of electricity demand forecast
 
 <img width="1966" height="1141" alt="Screenshot 2026-07-13 alle 15 25 47" src="https://github.com/user-attachments/assets/866b4464-8272-4ed5-ab1c-c2f8cba92778" />
 
-## Project Summary
+---
+
+## 📖 Project Overview
 Developed and evaluated statistical (SARIMA), machine learning (XGBoost), and deep learning (LSTM) models for univariate and multivariate electricity demand forecasting. Compared deterministic and probabilistic forecasting approaches for risk-aware energy prediction. 
 
 The best-performing XGBoost model achieved **2.13% MAPE** with a Durbin-Watson statistic of **1.94**, indicating highly accurate forecasts with uncorrelated residuals.
 
-## Technical Skills
-* **Time Series Forecasting:** Statistical modeling, SARIMA.
-* **Machine Learning:** XGBoost, Hyperparameter optimization.
-* **Deep Learning:** LSTM networks for sequential data.
-* **Evaluation:** Deterministic vs. Probabilistic approaches, Error Analysis.
+---
 
-## Repository Structure
-- `time-series-forecasting-univariate-multivariate.ipynb`: The complete end-to-end project code.
-- `requirements.txt`: Dependencies required to run the analysis.
+## 🎯 Objective
 
-## How to run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/JakFerretti/energy-forecasting-analysis.git](https://github.com/JakFerretti/energy-forecasting-analysis.git)
+- Build forecasting models for energy consumption
+- Compare deterministic vs probabilistic approaches
+- Evaluate predictive uncertainty
+- Generate confidence intervals from model outputs
+- Compare univariate and multivariate approaches
+
+---
+
+## 🛠️ Technical Skills
+
+- **Time Series Forecasting:** Statistical modeling, SARIMA.
+- **Machine Learning:** XGBoost, Hyperparameter optimization.
+- **Deep Learning:** TensorFlow / Keras (LSTM networks for sequential data).
+- **Evaluation:** Deterministic vs. Probabilistic approaches, Error Analysis.
+
+---
+
+## 👤 Author
+
+#### Jacopo Ferretti
+
+Data Scientist | Machine Learning | Applied AI
+
+Kaggle: https://www.kaggle.com/jacopoferretti
+
+LinkedIn: https://www.linkedin.com/in/jacopo-ferretti-29b2b3293
+
+GitHub: https://github.com/JakFerretti
+
+---
+
+## 📄 License
+
+MIT License
