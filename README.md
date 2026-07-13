@@ -2,9 +2,7 @@
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/jacopoferretti/time-series-forecasting-univariate-multivariate)
 
-![Actual Average Load per Customer VS 12-h Forecast](<img width="1966" height="1141" alt="Screenshot 2026-07-13 alle 15 25 47" src="https://github.com/user-attachments/assets/d59147bb-b08a-4260-b217-46de5b9dd515" />
-)
-
+<img width="1966" height="1141" alt="Screenshot 2026-07-13 alle 15 25 47" src="https://github.com/user-attachments/assets/866b4464-8272-4ed5-ab1c-c2f8cba92778" />
 
 This repository contains a comprehensive analysis of electricity demand forecasting, exploring both statistical and machine learning approaches.
 
