@@ -1,10 +1,10 @@
-# Energy Forecasting Analysis
+# ⚡ Energy Forecasting Analysis
+
+This repository contains a comprehensive analysis of electricity demand forecasting, exploring both statistical and machine learning approaches.
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/jacopoferretti/time-series-forecasting-univariate-multivariate)
 
 <img width="1966" height="1141" alt="Screenshot 2026-07-13 alle 15 25 47" src="https://github.com/user-attachments/assets/866b4464-8272-4ed5-ab1c-c2f8cba92778" />
-
-This repository contains a comprehensive analysis of electricity demand forecasting, exploring both statistical and machine learning approaches.
 
 ## Project Summary
 Developed and evaluated statistical (SARIMA), machine learning (XGBoost), and deep learning (LSTM) models for univariate and multivariate electricity demand forecasting. Compared deterministic and probabilistic forecasting approaches for risk-aware energy prediction. 
