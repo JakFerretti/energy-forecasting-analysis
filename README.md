@@ -22,4 +22,4 @@ The best-performing XGBoost model achieved **2.13% MAPE** with a Durbin-Watson s
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/energy-forecasting-analysis.git](https://github.com/yourusername/energy-forecasting-analysis.git)
+   git clone [https://github.com/JakFerretti/energy-forecasting-analysis.git](https://github.com/JakFerretti/energy-forecasting-analysis.git)
