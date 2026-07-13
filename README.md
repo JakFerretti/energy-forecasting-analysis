@@ -4,7 +4,9 @@ This repository contains a comprehensive analysis of electricity demand forecast
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/jacopoferretti/time-series-forecasting-univariate-multivariate)
 
+<div align="center">
 <img width="700" alt="Screenshot 2026-07-13 alle 15 25 47" src="https://github.com/user-attachments/assets/866b4464-8272-4ed5-ab1c-c2f8cba92778" />
+</div>
 
 ---
 
