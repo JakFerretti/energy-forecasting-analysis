@@ -25,6 +25,15 @@ The best-performing XGBoost model achieved **2.13% MAPE** with a Durbin-Watson s
 
 ---
 
+## 📈 Key Insights
+* **Baseline Performance:** SARIMA models established a strong statistical baseline, offering high interpretability for linear temporal dependencies.
+* **Non-Linear Dynamics:** The **XGBoost** model demonstrated superior performance in capturing complex, non-linear patterns within the energy consumption data.
+* **Deep Learning Potential:** **LSTM** networks proved effective in modeling long-range temporal structures, showing stability for multi-step sequences.
+* **Risk Management:** Incorporating **probabilistic forecasting** and confidence intervals provided essential uncertainty estimation, which is critical for real-world grid load management.
+* **Feature Importance:** The transition to a multivariate approach allowed for a better understanding of exogenous variables, significantly enhancing predictive accuracy.
+
+---
+
 ## 🛠️ Technical Skills
 
 - **Time Series Forecasting:** Statistical modeling, SARIMA.
