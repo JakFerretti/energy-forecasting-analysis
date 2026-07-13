@@ -2,6 +2,9 @@
 
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/jacopoferretti/time-series-forecasting-univariate-multivariate)
 
+![Uploading Screenshot 2026-07-13 alle 15.25.47.png…]()
+
+
 This repository contains a comprehensive analysis of electricity demand forecasting, exploring both statistical and machine learning approaches.
 
 ## Project Summary
